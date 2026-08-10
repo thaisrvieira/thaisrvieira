@@ -1,9 +1,5 @@
 <h1 align="center">Olá, eu sou a Thaís 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedora+Backend+Java;Spring+Boot+%26+APIs+RESTful;Arquitetura+de+Microsservi%C3%A7os;Aprendendo+Python%2C+JS+%2B+Angular&font=Fira%20Code&center=true&width=440&height=40&duration=3000&pause=1000&color=2E86AB&vCenter=true" alt="Typing SVG" />
-</p>
-
 Desenvolvedora Backend Java com foco no ecossistema Spring Boot, construção de APIs RESTful e arquitetura de microsserviços.
 
 Graduanda em Análise e Desenvolvimento de Sistemas (UniBF) e Inteligência Artificial (UNIVESP), com interesse amplo em IA — de fundamentos técnicos a questões de viés algorítmico e impacto ético de sistemas inteligentes. Em transição para uma atuação Full Stack, com estudos em Python, JavaScript, TypeScript e Angular.
