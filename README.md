@@ -6,7 +6,7 @@
 
 Desenvolvedora Backend Java com foco no ecossistema Spring Boot, construção de APIs RESTful e arquitetura de microsserviços.
 
-Graduanda em Análise e Desenvolvimento de Sistemas (UniBF) e Inteligência Artificial (UNIVESP), estudo o desenvolvimento de soluções robustas aliadas à pesquisa sobre viés algorítmico e impacto ético de sistemas de IA. Atualmente, expandindo a atuação Full Stack com estudos em Python, JavaScript, TypeScript e Angular.
+Graduanda em Análise e Desenvolvimento de Sistemas (UniBF) e Inteligência Artificial (UNIVESP), com interesse amplo em IA — de fundamentos técnicos a questões de viés algorítmico e impacto ético de sistemas inteligentes. Em transição para uma atuação Full Stack, com estudos em Python, JavaScript, TypeScript e Angular.
 
 📍 Assis, SP — Brasil
 
