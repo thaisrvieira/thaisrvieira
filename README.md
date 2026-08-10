@@ -28,23 +28,6 @@ Graduanda em Análise e Desenvolvimento de Sistemas (UniBF) e Inteligência Arti
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
-## 📌 Projetos em destaque
-
-**[Agendador de Tarefas](https://github.com/thaisrvieira)** — Portfólio de microsserviços (BFF + 3 serviços) com Spring Boot, Gradle, Feign, Swagger/OpenAPI e SonarQube.
-
-**[usuario](https://github.com/thaisrvieira/usuario)** — CRUD com autenticação JWT e Spring Security.
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thaisrvieira&show_icons=true&hide_title=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisrvieira&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thaisrvieira&hide_border=true&theme=default" alt="GitHub streak" />
-</p>
-
 ## 📫 Contato
 
 <p align="center">
